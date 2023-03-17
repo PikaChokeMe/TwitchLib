@@ -14,5 +14,5 @@
 	path = TwitchLib.EventSub.Websockets
 	url = https://github.com/TwitchLib/TwitchLib.EventSub.Websockets.git
 [submodule "TwitchLib.Communication"]
-	path = TwitchLib.Communication
+	path = TwitchLib.Client/TwitchLib.Communication
 	url = https://github.com/TwitchLib/TwitchLib.Communication
